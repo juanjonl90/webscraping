@@ -1,3 +1,7 @@
 requests
 beautifulsoup4
+<<<<<<< HEAD
+=======
+matplotlib
+>>>>>>> 77c9837373bee1ba9daef3bc80763b3cfe9cc2e3
 datetime
